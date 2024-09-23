@@ -8,6 +8,6 @@ print (a)
 print (my_dict)
 my_set={'bread', 2024, 'fish', 'meat', 3, 5, 'bread', 3, 'egg', 'egg', 2024}
 print (my_set)
-print (my_set.add('septemder'))
+print (my_set.add((1,2,3)))
 print (my_set.remove(3))
 print (my_set)
